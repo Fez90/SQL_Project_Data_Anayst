@@ -1,1 +1,15 @@
-TO DO: Update changes
+<h2> Key Insights from the project research:</h2>
+1. Data roles dominated the market in 2023
+Data Analyst, Data Engineer and Data Scientist roles collectively account for over 550,000 postings, showing continued growth in data-focused work across industries.
+With nearly 200,000 postings, Data Analyst role remains the entry point into the data field and is broadly required across sectors like finance, healthcare, retail and tech.
+<p align="center"> <img width="400" height="300" alt="job roles" src="https://github.com/user-attachments/assets/d6a9625d-b9cd-4c42-bcc3-0e84b2eb2652" /> </p>
+Based on research SQL is the most essential skill for Data Analysts, followed by Excel and Python, which remain core for data cleaning and analysis. Tableau and Power BI also appear strongly, highlighting the importance of data visualization and business intelligence in the role.
+<p align="center"> <img width="400" height="300" alt="top_5_skills_data_analyst_role" src="https://github.com/user-attachments/assets/7647400c-452e-4d32-8f91-dd0969a95e8f" /> </p>
+SQL and Python are by far the most in-demand skills across all job roles, appearing in nearly twice as many postings as any other skill. AWS, Azure, and R follow at much lower levels, highlighting the growing need for cloud expertise and statistical programming across the broader tech job market.
+<p align="center"> <img width="400" height="300" alt="top_5_skills_overall" src="https://github.com/user-attachments/assets/0b61f541-9130-404a-8fbc-d142784d2a2a" /> </p>
+The highest-paying skills for Data Analysts role in 2023 are highly specialized and technical. SVN tops the list due to niche demand, while skills like Solidity, Couchbase, DataRobot, and Golang command high salaries because they relate to blockchain, NoSQL databases, automated ML tools, and backend development—areas where Data Analysts with cross-disciplinary expertise are rare and therefore highly valued.
+<p align="center"> <img width="400" height="300" alt="highest_paying_data_analyst" src="https://github.com/user-attachments/assets/d296f66a-42a5-47dc-9bfa-0cf5f6684549" /> </p>
+The top 10 Data Analyst skills show that specialized technical skills like Kafka, PyTorch, TensorFlow, and Cassandra offer the highest salaries, while widely used tools like Airflow, Confluence, Scala, and Linux have higher demand but slightly lower pay. This highlights a trade-off: combining niche technical expertise with commonly used tools maximizes both salary potential and employability.
+<p align="center"> <img width="400" height="300" alt="high_demand_high_salary_data_analyst" src="https://github.com/user-attachments/assets/56d71929-328f-4ca1-9bcd-8c29b8caea95" /> </p>
+The following shows that for all roles in 2023, specialized technical skills like Mongo, dplyr, Watson, and R Shiny offer the highest salaries, while core big data and backend skills like Scala, Kafka, and Cassandra combine high demand with strong pay. For job seekers, balancing rare focused skills with widely used high-demand skills maximizes both employability and earning potential across industries.
+<p align="center"> <img width="400" height="300" alt="top_paying_top_skills_all_roles" src="https://github.com/user-attachments/assets/6f0599ed-a9f3-43a8-8d1c-da6cfaf1fff7" /> </p>
